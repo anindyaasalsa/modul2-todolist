@@ -1,1 +1,1 @@
-![ScreenShot](https://raw.github.com/{anindyaasalsa}/{modul2-todolist}/{master}/{addTodo.png})
+<img src="/output/deleteTodo.png" alt="output"/>
