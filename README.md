@@ -1,1 +1,1 @@
-![ScreenShot](https://raw.github.com/{anindyaasalsa}/{modul2-todolist}/{master}/{addTodo.png})
+![ScreenShot](https://github.com/{anindyaasalsa}/{modul2-todolist}/{master}/{addTodo.png})
