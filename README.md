@@ -1,1 +1,1 @@
-<img src="/output/deleteTodo.png" alt="output"/>
+<img src="/output/deleteTodo.PNG" alt="output"/>
